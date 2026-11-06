@@ -8,7 +8,7 @@ I build AI systems that connect data, models, and useful applications. My profes
 
 Here, I share independent projects with runnable code, baseline comparisons, evaluation reports, and documented failure cases.
 
-[Explore my repositories](https://github.com/harikamanukonda?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/harikamanu7/) · [Get in touch](mailto:haarikamanukonda@outlook.com)
+[Explore my repositories](https://github.com/harikamanukonda?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/harikamanu7/) · [Get in touch](mailto:haarikamanukonda@gmail.com)
 
 ## Featured projects
 
@@ -30,20 +30,12 @@ These are independent demonstrations using public data, synthetic data, or ficti
 | **Generative AI** | LangChain, LangGraph, Hugging Face, RAG, FAISS, ChromaDB, Amazon Bedrock, MCP |
 | **Deployment & operations** | FastAPI, Docker, Kubernetes, AWS, Azure ML, MLflow, Langfuse, GitHub Actions |
 
-## Professional background
 
-- **McKesson · AI/ML Engineer / Data Scientist** — healthcare forecasting, agentic RAG, evaluation, and model observability.
-- **Airbnb · AI/ML Engineer** — scalable ML pipelines, forecasting, and real-time inference.
-- **Dell Technologies · ML Engineer** — ML pipeline automation, model deployment, and performance monitoring.
+**Education:** Master’s in Computer and Information Science, Saint Louis University 
 
-**Education:** Master’s in Information Systems, Saint Louis University · GPA 3.8/4.0.
-
-## How I approach projects
-
-Start with a reproducible baseline, keep evaluation data separate, and inspect where the model fails. Document the data, assumptions, tradeoffs, and limits so another engineer can reproduce the result.
 
 ## Connect
 
 I’m interested in applied AI, generative AI, and ML platform engineering.
 
-[LinkedIn](https://www.linkedin.com/in/harikamanu7/) · [Email](mailto:haarikamanukonda@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/harikamanu7/) · [Email](mailto:haarikamanukonda@gmail.com)
