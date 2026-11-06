@@ -8,7 +8,7 @@ I build AI systems that connect data, models, and useful applications. My profes
 
 Here, I share independent projects with runnable code, baseline comparisons, evaluation reports, and documented failure cases.
 
-[Explore my repositories](https://github.com/harikamanukonda?tab=repositories) · [Get in touch](mailto:haarikamanukonda@outlook.com)
+[Explore my repositories](https://github.com/harikamanukonda?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/harikamanu7/) · [Get in touch](mailto:haarikamanukonda@outlook.com)
 
 ## Featured projects
 
@@ -46,4 +46,4 @@ Start with a reproducible baseline, keep evaluation data separate, and inspect w
 
 I’m interested in applied AI, generative AI, and ML platform engineering.
 
-**Email:** [haarikamanukonda@outlook.com](mailto:haarikamanukonda@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/harikamanu7/) · [Email](mailto:haarikamanukonda@outlook.com)
